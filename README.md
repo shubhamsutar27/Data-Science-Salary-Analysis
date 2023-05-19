@@ -1,5 +1,3 @@
-# Data-Science-Salary-Analysis
-
 # BUSINESS OBJECTIVE:
 
 Understand the market demand and trends for data science roles, such as the most sought-after job titles, prevalent employment types, and salary expectations. This information can guide companies in aligning their hiring strategies and offerings with market demands.
